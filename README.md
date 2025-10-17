@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jesusgxmez
 - 👀 I’m interested in becoming a programmer
-- 🌱 I’m currently learning Java, JavaScript, SQL, HTML, CSS...
+- 🌱 I’m currently learning Java, C#, JavaScript, Angular, React, SQL
 
 
 <!---
