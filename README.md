@@ -156,16 +156,6 @@ const developer = {
 
 <div align="center">
 
-```ascii
-          ╔═══════════════════════════════════════════════════════╗
-          ║                                                       ║
-          ║  < CRAFTED BY JESÚS GÓMEZ />                          ║
-          ║                                                       ║
-          ║  © 2026 • ALWAYS LEARNING, ALWAYS BUILDING            ║
-          ║                                                       ║
-          ╚═══════════════════════════════════════════════════════╝
-```
-
 ![Profile Views](https://komarev.com/ghpvc/?username=jesusgxmez&color=ff4f00&style=flat-square&label=VISITAS)
 
 </div>
