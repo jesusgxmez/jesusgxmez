@@ -41,7 +41,7 @@ const developer = {
   
   learningPath: {
     backend: ["Java", "C#", "Spring", "Node.js"],
-    frontend: ["Angular", "JavaScript", "TypeScript"],
+    frontend: ["Angular", "JavaScript", "TypeScript", "React", "Next.js"],
     database: ["MySQL"],
     tools: ["Git", "Docker"]
   },
