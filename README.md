@@ -120,9 +120,11 @@ const developer = {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jesusgxmez&show_icons=true&theme=radical&hide_border=true&bg_color=1a1614&title_color=ff4f00&icon_color=ffeb3b&text_color=f5ede4)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jesusgxmez&show_icons=true&theme=radical&hide_border=true&bg_color=1a1614&title_color=ff4f00&icon_color=ffeb3b&text_color=f5ede4&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jesusgxmez&layout=compact&theme=radical&hide_border=true&bg_color=1a1614&title_color=ff4f00&text_color=f5ede4)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jesusgxmez&layout=compact&theme=radical&hide_border=true&bg_color=1a1614&title_color=ff4f00&text_color=f5ede4&cache_seconds=1800)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jesusgxmez&theme=radical&hide_border=true&background=1a1614&stroke=ff4f00&ring=ff4f00&fire=ffeb3b&currStreakLabel=f5ede4&sideLabels=f5ede4&dates=f5ede4)
 
 </div>
 
