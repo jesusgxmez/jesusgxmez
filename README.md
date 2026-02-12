@@ -158,7 +158,6 @@ const developer = {
 </div>
 
 ---
-
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jesusgxmez&color=ff4f00&style=flat-square&label=VISITAS)
