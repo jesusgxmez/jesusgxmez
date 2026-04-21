@@ -149,11 +149,7 @@ const developer = {
 
 <div align="center">
 
-**¿Tienes un proyecto en mente?** Estoy disponible para nuevas oportunidades
-
 [![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-FF4F00?style=for-the-badge)](https://www.jesusgxmez.tech/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2E1A47?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/jesusgxmez)
-[![Email](https://img.shields.io/badge/Email-00D9FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jgomezserrano19@gmail.com)
 
 </div>
 
