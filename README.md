@@ -18,7 +18,6 @@
 **[001]** *Transformando ideas en código funcional*
 
 [![Website](https://img.shields.io/badge/🌐_PORTFOLIO-FF4F00?style=for-the-badge&logoColor=white)](https://www.jesusgxmez.tech/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2E1A47?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jesusgxmez)
 
 </div>
 
